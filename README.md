@@ -1,12 +1,12 @@
+# ⚡ WEB ENGINEERING ARCHIVES
 
-
-### ⚡ SYSTEM STATUS: ONLINE
+### SYSTEM STATUS: ONLINE 🟢
 
 This repository functions as the central archive for my **Full-Stack Development** and **Frontend Engineering** work.
 
 ---
 
-### 📂 ARCHIVE_INDEX
+### 📂 ARCHIVE INDEX
 
 | MODULE | TYPE | STATUS |
 | :--- | :--- | :--- |
@@ -16,12 +16,15 @@ This repository functions as the central archive for my **Full-Stack Development
 
 ---
 
-### 🛠 WEB_STACK
+### 🛠 TECHNOLOGY STACK
 
-```json
-{
-  "Frontend":    ["React 18", "Framer Motion", "Three.js"],
-  "Backend":     ["Node.js", "Express", "MongoDB"],
-  "Styling":     ["CSS3", "Tailwind", "SCSS"],
-  "Build_Tools": ["Webpack", "Vite", "Git"]
-}
+* **Frontend:** React 18, Framer Motion, Three.js
+* **Backend:** Node.js, Express, MongoDB
+* **Styling:** Tailwind CSS, SCSS
+* **Build Tools:** Vite, Git, Webpack
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-MERN_Stack-red?style=for-the-badge" />
+</div>
