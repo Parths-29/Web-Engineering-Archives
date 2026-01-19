@@ -11,7 +11,7 @@ This repository functions as the central archive for my **Full-Stack Development
 | MODULE | TYPE | STATUS |
 | :--- | :--- | :--- |
 | **Personal Portfolio** | React / UX | 🟢 **Live** |
-| **Smart Receipt Backend** | Node.js / MERN | 🚧 **Pending Upload** |
+| **Smart Receipt Backend** | Node.js / MERN | 🚧 **Code uploaded** |
 | **Component Library** | React / CSS | 🚧 **Planned** |
 
 ---
